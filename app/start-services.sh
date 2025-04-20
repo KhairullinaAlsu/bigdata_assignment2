@@ -40,4 +40,3 @@ jps -lm
 
 # Create a directory for root user on HDFS
 hdfs dfs -mkdir -p /user/root
-

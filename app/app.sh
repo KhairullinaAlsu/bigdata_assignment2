@@ -1,4 +1,3 @@
-```
 #!/bin/bash
 # Start ssh server
 service ssh restart
